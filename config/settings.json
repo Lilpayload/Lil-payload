@@ -1,0 +1,8 @@
+{
+    "theme": "Light",
+    "accent_color": "Teal",
+    "default_port": 4444,
+    "timeout": 60,
+    "log_level": "DEBUG",
+    "log_file": ""
+}
